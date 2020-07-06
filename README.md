@@ -8,3 +8,4 @@ The specialisation contains four Courses:
         2. Convolutional Neural Networks in Tensorflow
         3. Natural Language Processing in Tensorflow
         4. Sequenes, time-series and Prediction
+ The Specialization can be found at:https://www.coursera.org/specializations/tensorflow-in-practice
